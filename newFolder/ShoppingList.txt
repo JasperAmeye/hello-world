@@ -1,2 +1,6 @@
 1. Water
 2. Milk
+3. Bread
+4. Apples
+5. Lemons
+6. Spaghetti
